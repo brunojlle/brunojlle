@@ -4,9 +4,6 @@ I'm an IT professional with experience in software development. I currently work
 
 <div>
     <p>
-        <img align="left" src="https://github-readme-stats.vercel.app/api?username=brunojlle&show_icons=true&locale=en" alt="brunojlle" />
-    </p>
-    <p>
         <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=brunojlle&show_icons=true&locale=en&layout=compact" alt="brunojlle" />
     </p>
 </div>
